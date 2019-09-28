@@ -17,6 +17,3 @@ it consist of
 <img src="./screenshots/Screenshot_20190924-120342.png" height="380px"/>
 </div>
 
-<video width="320" height="240" controls>
-  <source src="./screenshots/2019_09_28_10_52_22_trim.mp4" type="video/mp4">
- </video>
