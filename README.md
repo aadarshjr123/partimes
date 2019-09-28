@@ -13,5 +13,5 @@ it consist of
 </div>
 
 <video width="320" height="240" controls>
-  <source src="" type="video/mp4">
+  <source src="./screenshots/2019_09_28_10_52_22_trim.mp4" type="video/mp4">
  </video>
