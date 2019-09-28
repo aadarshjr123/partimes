@@ -4,8 +4,13 @@ it consist of
  ->navigation bar
  ->splashscreen etc.
  
+ ###SPLASH SCREEN
+ <img src="./screenshots/Screenshot_20190924-120349.png" height="380px"/>
+ 
+ 
+ ###NAVIGATION BAR
  <div style="display:grid">
-<img src="./screenshots/Screenshot_20190924-120349.png" height="380px"/>
+
 <img src="./screenshots/Screenshot_20190924-120322.png" height="380px"/>
 <img src="./screenshots/Screenshot_20190924-120333.png" height="380px"/>
 <img src="./screenshots/Screenshot_20190924-120335.png" height="380px"/>
