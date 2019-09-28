@@ -5,4 +5,4 @@ it consist of
  ->splashscreen etc.
  
  
-<img src="./screenshots/Screenshot_20190924-120349.png"/>
+<img src="./screenshots/Screenshot_20190924-120349.png" height="100px"/>
